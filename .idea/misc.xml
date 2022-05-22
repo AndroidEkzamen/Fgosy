@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/Fgosy/app/src/main/res/layout-land/activity_main.xml" value="0.3064373897707231" />
+        <entry key="..\:/android/Fgosy/app/src/main/res/layout-ru-rRU-port/activity_main.xml" value="0.28442028985507245" />
+        <entry key="..\:/android/Fgosy/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/android/Fgosy/app/src/main/res/layout/activity_otchet.xml" value="0.21875" />
+        <entry key="..\:/android/Fgosy/app/src/main/res/layout/fragment1.xml" value="0.1" />
+        <entry key="..\:/android/Fgosy/app/src/main/res/layout/fragment_add_object.xml" value="0.33" />
+        <entry key="..\:/android/Fgosy/app/src/main/res/layout/fragment_change_object.xml" value="0.3555253623188406" />
+        <entry key="..\:/android/Fgosy/app/src/main/res/layout/fragment_layout.xml" value="0.1" />
+        <entry key="..\:/android/Fgosy/app/src/main/res/layout/fragment_list.xml" value="0.33" />
+        <entry key="..\:/android/Fgosy/app/src/main/res/layout/fragment_search.xml" value="0.3555253623188406" />
+        <entry key="..\:/android/Fgosy/app/src/main/res/layout/list_fragment.xml" value="0.25" />
+        <entry key="..\:/android/Fgosy/app/src/main/res/layout/list_view.xml" value="0.1778115501519757" />
+        <entry key="..\:/android/Fgosy/app/src/main/res/layout/list_view_item.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
